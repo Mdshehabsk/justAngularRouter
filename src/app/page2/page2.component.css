@@ -1,0 +1,13 @@
+body{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #2aad10;
+}
+
+h1{
+    text-transform: capitalize;
+    color: white;
+}
